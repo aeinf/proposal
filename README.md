@@ -1,4 +1,4 @@
-# AEINF
+# AEINF proposal
 
 A model for change directed at those who both need, want and require it.
 
