@@ -10,7 +10,7 @@ https://github.com/djr303
 
 ## Repository status and change t UTC.
 
-_1 167371033732 UK
-_1.1 ae: namespace with validation, logs and url
-_1.2 svg_mark.svg
-_1.3 README.md
+- 1 167371033732 UK
+- 1.1 ae: namespace with validation, logs and url
+- 1.2 svg_mark.svg
+- 1.3 README.md
